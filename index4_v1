@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <title>Tawa College EOTC</title>
+    <link rel="stylesheet" href="css/styles4.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.jpg" class="logo-placeholder" alt="logo"/>
+    <h1>Tawa College EOTC</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index1.html">Home</a></li>
+            <li><a href="index2.html">Information</a></li>
+            <li><a href="index3.html">Outdoor Activities</a></li>
+            <li><a href="index4.html">Community Service</a></li>
+            <li><a href="index5.html">Contacts</a></li>
+        </ul>
+    </nav>
+
+	
+    <div class="header-bar">
+        <div class="red-bar"></div>
+        <div class="yellow-bar"></div>
+    </div>
+	
+	
+	<main>
+	<h1 id="h1">COMMUNITY SERVICE</h1>
+
+          <div class="container">
+	<div class="yellow-line"></div>
+	<div class="red-line"></div>
+	</div>
+	 
+	 
+	 <p id="p1">Ratonga Hapori</p>
+	 
+	 <img src="images/cspage.jpg" class="image-placeholder" alt="cspage"/>
+	 
+	 <h1 id="h2">Meeting Time & Location</h1>
+	 
+	<p id="p2"> Be at the school gym at 9.15am
+	<br><br>
+	Students will complete one day of community service assisting local residents and businesses. This will usually occur within walking distance of Tawa College for all Year 10 students. This day has the key focus of citizenship and has been a great success in previous years.
+	 </p>
+	 
+	 <h1 id="h3">What to bring</h1>
+	 
+	 <p id="p3"> Students must bring along with them a day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad. It will still go ahead unless there is torrential rain. Please wear appropriate old clothes for potential gardening/painting jobs and closed toed shoes. Bring any medication required.
+	 <br><br>
+	Students will spend a day completing community service in a small group with friends in the Tawa basin, supervised by a staff member. This is a highly valuable experience where students have the chance to interact with the elderly helping them with gardening, painting etc or assisting local food banks, kindergartens, hospice shops and charities for the day. Students will usually walk to their allocated job with a staff member, however a very small number of jobs will be on the fringes of the Tawa Basin and therefore they may be driven by a staff member in their groups.		
+	 </p>
+	 
+	 
+	 
+	 
+	 
+	 </main>
+	
+	
+	    <footer>
+		  © 2024 Tawa College
+		</footer>
+</body>
+</html>
